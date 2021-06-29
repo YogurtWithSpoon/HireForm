@@ -4,7 +4,7 @@
 
 ## Развернутый проект
 
-[Link to deploy]: http://YogurtWithSpoon.github.io/HireForm
+[Link to deploy](http://YogurtWithSpoon.github.io/HireForm)
 
 
 
