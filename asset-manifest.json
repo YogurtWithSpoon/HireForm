@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/HireForm/static/js/main.3ba09ec3.chunk.js",
+    "main.js.map": "/HireForm/static/js/main.3ba09ec3.chunk.js.map",
+    "runtime-main.js": "/HireForm/static/js/runtime-main.5e7b0fb6.js",
+    "runtime-main.js.map": "/HireForm/static/js/runtime-main.5e7b0fb6.js.map",
+    "static/js/2.56d3dbc8.chunk.js": "/HireForm/static/js/2.56d3dbc8.chunk.js",
+    "static/js/2.56d3dbc8.chunk.js.map": "/HireForm/static/js/2.56d3dbc8.chunk.js.map",
+    "index.html": "/HireForm/index.html",
+    "static/js/2.56d3dbc8.chunk.js.LICENSE.txt": "/HireForm/static/js/2.56d3dbc8.chunk.js.LICENSE.txt",
+    "static/media/Inter-Bold.4033e851.woff2": "/HireForm/static/media/Inter-Bold.4033e851.woff2",
+    "static/media/Inter-Regular.133ad199.woff2": "/HireForm/static/media/Inter-Regular.133ad199.woff2",
+    "static/media/ProximaNova-Bold.c84883df.woff2": "/HireForm/static/media/ProximaNova-Bold.c84883df.woff2",
+    "static/media/ProximaNova-Regular.c4c3616c.woff2": "/HireForm/static/media/ProximaNova-Regular.c4c3616c.woff2",
+    "static/media/ProximaNova-Semibold.aad83304.woff2": "/HireForm/static/media/ProximaNova-Semibold.aad83304.woff2",
+    "static/media/checkIcon.46dd40cf.svg": "/HireForm/static/media/checkIcon.46dd40cf.svg",
+    "static/media/close.1133c76b.svg": "/HireForm/static/media/close.1133c76b.svg",
+    "static/media/close.f9aeb36f.svg": "/HireForm/static/media/close.f9aeb36f.svg",
+    "static/media/error.a296cce6.svg": "/HireForm/static/media/error.a296cce6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e7b0fb6.js",
+    "static/js/2.56d3dbc8.chunk.js",
+    "static/js/main.3ba09ec3.chunk.js"
+  ]
+}
